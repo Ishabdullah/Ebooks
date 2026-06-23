@@ -1,0 +1,11 @@
+- [ ] Verify source‑text public‑domain status (done)
+- [ ] Research author biography and historical context
+- [ ] Draft front‑matter (title page, copyright, etc.)
+- [ ] Write scholarly introduction and annotations
+- [ ] Generate chapter‑level notes (summary, themes, etc.)
+- [ ] Source or create public‑domain images
+- [ ] Design cover (original illustration)
+- [ ] Build validated EPUB
+- [ ] Build KDP‑ready PDF
+- [ ] Run QA checks (placeholders, links, image quality)
+- [ ] Commit and push via SSH

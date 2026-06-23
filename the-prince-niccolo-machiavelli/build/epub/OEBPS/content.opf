@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>The Prince</dc:title>
+    <dc:creator>Niccolò Machiavelli</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:identifier id="pub-id">urn:isbn:1234567890</dc:identifier>
+    <dc:publisher>Abdullah Publishing</dc:publisher>
+    <dc:date>2026</dc:date>
+    <dc:subject>Political philosophy</dc:subject>
+    <dc:description>Annotated edition of The Prince with scholarly notes on historical context and terminology.</dc:description>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-img" href="cover.svg" media-type="image/svg+xml"/>
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="content" href="content.xhtml" media-type="application/xhtml+xml"/>
+    <item id="css" href="style.css" media-type="text/css"/>
+  </manifest>
+  <spine>
+    <itemref idref="cover"/>
+    <itemref idref="nav"/>
+    <itemref idref="content"/>
+  </spine>
+</package>

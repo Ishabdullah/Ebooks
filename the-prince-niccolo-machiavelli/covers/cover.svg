@@ -1,0 +1,6 @@
+<svg width="800" height="1280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#F8F8F8"/>
+  <text x="400" y="200" text-anchor="middle" font-size="60" font-family="serif" fill="#2C3E50">The Prince</text>
+  <text x="400" y="280" text-anchor="middle" font-size="36" font-family="serif" fill="#7F8C8D">by Niccolò Machiavelli</text>
+  <image x="320" y="500" width="160" height="160" href="file:///root/ebooks/the-prince-niccolo-machiavelli/images/machiavelli-portrait.png"/>
+</svg>
